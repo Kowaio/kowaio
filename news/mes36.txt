@@ -1,0 +1,12 @@
+<?php
+
+
+$ntitre = "MAJ de la rubrique projets";
+$ndate = "08/01/2010";
+$nheure = "09:25";
+$nauteur = "Kowaio";
+$nemail = "Kowaio@gmail.com";
+$ntexte = "Les images sont maintenant cliquables pour pouvoir les agrandir dans la rubrique \"Projets\".";
+
+?>
+

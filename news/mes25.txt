@@ -1,0 +1,12 @@
+<?php
+
+
+$ntitre = "Crédits";
+$ndate = "09/03/2008";
+$nheure = "12:23";
+$nauteur = "Kowaio";
+$nemail = "Kowaio@gmail.com";
+$ntexte = "Ajout des crédits dans la bannière du bas prévue à cet effet. Les pages ainsi que leur contenu viendront par la suite.";
+
+?>
+

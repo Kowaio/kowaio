@@ -1,0 +1,12 @@
+<?php
+
+
+$ntitre = "Archives des news";
+$ndate = "14/03/2008";
+$nheure = "12:51";
+$nauteur = "Kowaio";
+$nemail = "Kowaio@gmail.com";
+$ntexte = "Vous trouverez maintenant en bas de la page d\'accueil un bouton \"Archives\" qui vous permettra de lire toutes les news publiées, la page d\'accueil n\'affichant que les 5 news les plus récentes.";
+
+?>
+

@@ -1,0 +1,13 @@
+<?php
+
+
+$ntitre = "MAJ mineure";
+$ndate = "02/11/2009";
+$nheure = "21:32";
+$nauteur = "Kowaio";
+$nemail = "Kowaio@gmail.com";
+$ntexte = "MAJ de la page présentation, de mon CV et de la page de liens.<br />
+Des publications seront publiées très prochainement. Bonne visite.";
+
+?>
+

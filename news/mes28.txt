@@ -1,0 +1,12 @@
+<?php
+
+
+$ntitre = "Page présentation";
+$ndate = "22/03/2008";
+$nheure = "15:07";
+$nauteur = "Kowaio";
+$nemail = "Kowaio@gmail.com";
+$ntexte = "La page présentation comportant des informations sur moi-même et mon site est maintenant disponible. Vous pourrez également accéder à mon CV.";
+
+?>
+

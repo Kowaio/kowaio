@@ -1,0 +1,15 @@
+<?php
+
+
+$ntitre = "Mise à jour du site";
+$ndate = "07/01/2010";
+$nheure = "01:00";
+$nauteur = "Kowaio";
+$nemail = "Kowaio@gmail.com";
+$ntexte = "Correction de bugs. Correction de la page \"Présentation\".<br />
+Correction du PHP concernant les sessions.<br />
+Ajout de la page \"Projets\" et des catégories.<br />
+Remplissage du contenu des projets.";
+
+?>
+

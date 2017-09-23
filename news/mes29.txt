@@ -1,0 +1,13 @@
+<?php
+
+
+$ntitre = "Mise à jour du site";
+$ndate = "14/10/2009";
+$nheure = "11:55";
+$nauteur = "Kowaio";
+$nemail = "Kowaio@gmail.com";
+$ntexte = "Bonjour,<br />
+Je me remets à travailler sur mon site. Une mise à jour sera donc disponible très prochainement.";
+
+?>
+

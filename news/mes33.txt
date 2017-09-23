@@ -1,0 +1,13 @@
+<?php
+
+
+$ntitre = "MAJ de pages";
+$ndate = "05/01/2010";
+$nheure = "21:50";
+$nauteur = "Kowaio";
+$nemail = "Kowaio@gmail.com";
+$ntexte = "Les pages \"liens\", \"contact\" et \"presentation\" ont été mises à jour. Le design global a également été modifié.<br />
+Projets à venir.";
+
+?>
+

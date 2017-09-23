@@ -1,0 +1,16 @@
+<?php
+
+
+$ntitre = "Migration";
+$ndate = "05/01/2010";
+$nheure = "18:44";
+$nauteur = "Kowaio";
+$nemail = "Kowaio@gmail.com";
+$ntexte = "Bonjour à tous.<br />
+A partir d\'aujourd\'hui, la totalité du site a été migré vers ce nouveau domaine : www.guillaume-siorak.fr<br />
+L\'ancien site http://kowaio.free.fr vous redirigera directement sur celui-ci.<br />
+Dans les mises à jour à venir, la page \"contact\" sera revue et la page des projets sera créée.<br />
+Bonne visite.";
+
+?>
+

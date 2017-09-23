@@ -1,0 +1,12 @@
+<?php
+
+
+$ntitre = "Blender";
+$ndate = "12/01/2010";
+$nheure = "17:30";
+$nauteur = "Kowaio";
+$nemail = "Kowaio@gmail.com";
+$ntexte = "Le projet effectué sous Blender est maintenant fini. Vous retrouverez tous les détails dans la rubrique \"Projet\".";
+
+?>
+

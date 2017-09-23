@@ -1,0 +1,12 @@
+<?php
+
+
+$ntitre = "MAJ";
+$ndate = "04/05/2011";
+$nheure = "16:46";
+$nauteur = "Kowaio";
+$nemail = "Kowaio@gmail.com";
+$ntexte = "Mise à jour des pages et des informations";
+
+?>
+

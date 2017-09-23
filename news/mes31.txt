@@ -1,0 +1,14 @@
+<?php
+
+
+$ntitre = "MAJ et migration";
+$ndate = "04/01/2010";
+$nheure = "18:20";
+$nauteur = "Kowaio";
+$nemail = "Kowaio@gmail.com";
+$ntexte = "MAJ de la page présentation, de mon CV français et ajout du CV anglais.<br />
+La page des liens a également été réactualisé.<br />
+Une migration vers le domaine www.guillaume-siorak.fr sera disponible très prochainement.";
+
+?>
+

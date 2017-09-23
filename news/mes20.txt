@@ -1,0 +1,12 @@
+<?php
+
+
+$ntitre = "Correction et validation";
+$ndate = "07/03/2008";
+$nheure = "15:02";
+$nauteur = "Kowaio";
+$nemail = "Kowaio@gmail.com";
+$ntexte = "Comme indiqué dans le titre, les pages de ce site ont enfin été passé à la validation <a class=\"content\" href=\"http://validator.w3.org/check?uri=http%3A%2F%2Fkowaio.free.fr%2F\">W3C</a>";
+
+?>
+

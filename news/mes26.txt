@@ -1,0 +1,12 @@
+<?php
+
+
+$ntitre = "Liens et contact";
+$ndate = "13/03/2008";
+$nheure = "20:11";
+$nauteur = "Kowaio";
+$nemail = "Kowaio@gmail.com";
+$ntexte = "La page des liens ainsi que celle pour me contacter sont maintenant disponibles.";
+
+?>
+

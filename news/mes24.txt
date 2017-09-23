@@ -1,0 +1,12 @@
+<?php
+
+
+$ntitre = "Logos W3C";
+$ndate = "08/03/2008";
+$nheure = "13:01";
+$nauteur = "Kowaio";
+$nemail = "Kowaio@gmail.com";
+$ntexte = "Ajout des logos <a class=\'content\' href=\'http://www.w3.org\'>W3C</a> pour  la structure XHTML utilisée ainsi que la feuille de style. Vous pouvez retrouver ces liens sur chaque page du site, en bas.";
+
+?>
+

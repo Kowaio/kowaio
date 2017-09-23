@@ -1,0 +1,153 @@
+/* Fichier private.css - Mise en page Zone Private Site
+	SIORAK Guillaume 2008	*/
+	
+body {
+background-color	:#1C2D67; 
+}
+
+/* ------------------------------------------------------- */	
+
+p {
+font-family			:Arial; 
+font-size			:12px; 
+margin				:5px; 
+color				:#FFFFFF;
+}
+
+p.petit{
+text-align			:center;
+}
+
+p.contenu_centre {
+text-align			:center;
+}
+
+/* ------------------------------------------------------- */	
+
+h1 {
+font-family			:Arial; 
+font-size			:34px; 
+margin				:5px; 
+color				:#FDFC65;
+}
+
+h1.menu {
+text-align			:center;
+}
+
+/* ------------------------------------------------------- */	
+
+hr {
+margin				:0px;
+padding				:0px;
+}
+
+hr.trait {
+border				:0px;
+border-bottom		:1px solid #FDFC65;
+}
+
+/* ------------------------------------------------------- */	
+
+table.centrer_tab {
+margin-left			:60px;
+margin-right		:60px;
+}
+
+/* ------------------------------------------------------- */	
+
+td {
+margin				:0px;
+padding				:0px;
+border				:0px;
+}
+
+td.td_contenu_news {
+width				:100%;
+}
+
+td.liste_suppr {
+white-space			:nowrap;
+}
+
+td.centrer {
+text-align			:center;
+}
+
+/* ------------------------------------------------------- */	
+
+img {
+margin				:0px;
+padding				:0px;
+border				:0px;
+}
+
+img.new {
+width				:25px;
+height				:12px;
+}
+
+img.go{
+width				:12px;
+height				:13px;
+text-align			:left;
+}
+
+/* ------------------------------------------------------- */	
+
+a {
+color				:#FFFFAA; 
+text-decoration		:none;
+}
+
+a:hover {
+color				:#FDFC65; 
+text-decoration		:underline;
+}
+
+/* ------------------------------------------------------- */	
+
+.titre {
+color				:#FDFC65; 
+font-weight			:bold; 
+font-size			:14px;
+}
+
+.petit {
+font-family			:Arial; 
+font-size			:10px; 
+margin				:5px; 
+color				:#FFFFFF;
+}
+
+.gras {
+font-weight			:bold;
+}
+
+.bouton {
+background-color	:#354785; 
+color				:#FFFFAA; 
+font-size			:12px; 
+font-family			:Arial; 
+font-weight			:bold;
+}
+
+.bouton:hover {
+background-color	:#354785; 
+color				:#FDFC65; 
+font-size			:12px; 
+font-family			:Arial; 
+font-weight			:bold;
+}
+
+.normal1 {
+background-color	:#354785;
+}
+
+.normal2 {
+background-color	:#1C2D67;
+}
+
+.hover {
+background-color	:#5A6BA5;
+}
